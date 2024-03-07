@@ -89,7 +89,7 @@ Retorna uma lista com os animes com melhores avaliações
 ---
 
 ### Realizar Avaliação
-`INSERT` /animes/avaliação
+`POST` /animes/avaliação
 
 #### Corpo da Requisição
 |Campo|Tipo|Obrigatório|Descrição
